@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rizwan-shariff&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="views"/>
-<a href="https://github.com/rizwan-shariff?tab=followers"><img src="https://img.shields.io/github/followers/rizwan-shariff?style=for-the-badge&logo=github&color=302b63" alt="followers"/></a>
 
 <br/><br/>
 
