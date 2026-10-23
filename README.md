@@ -134,17 +134,17 @@ Smart India Hackathon project built with a team to solve a real-world problem.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 LeetCode Snake
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/leetcode-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/leetcode-snake.svg" />
+  <img alt="LeetCode snake animation" src="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/leetcode-snake.svg" />
 </picture>
 </div>
 
-> The snake appears after you add the GitHub Action from the setup steps and it runs once.
+> Auto-generated daily from my LeetCode submissions. The snake eats every day I solved problems.
 
 ---
 
