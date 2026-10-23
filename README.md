@@ -1,7 +1,7 @@
 <!-- Banner with animated waving effect -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rizwan%20Shariff&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rizwan%20Shariff%20S%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- Animated typing headline -->
 <a href="https://github.com/rizwan-shariff">
