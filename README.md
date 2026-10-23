@@ -15,11 +15,9 @@
 
 <br/><br/>
 
-<!-- TODO: replace the # links with your real ones -->
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rizwanshariffsm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/3GasfAhrSD/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:rizwanshariffsm07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -126,10 +124,12 @@ Smart India Hackathon project built with a team to solve a real-world problem.
 
 ---
 
-## 📈 Contribution Graph
+## 🧩 LeetCode Progress
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwan-shariff&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true" width="100%"/>
+<a href="https://leetcode.com/u/3GasfAhrSD/">
+  <img src="https://leetcard.jacoblin.cool/3GasfAhrSD?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and heatmap" width="100%"/>
+</a>
 </div>
 
 ---
