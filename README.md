@@ -148,11 +148,7 @@ Smart India Hackathon project built with a team to solve a real-world problem.
 
 ---
 
-## 🏅 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rizwan-shariff&theme=nord&no-frame=true&no-bg=true&margin-w=12&column=7" />
-</div>
 
 ---
 
