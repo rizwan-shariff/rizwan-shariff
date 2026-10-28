@@ -125,16 +125,6 @@ Smart India Hackathon project built with a team to solve a real-world problem.
 ## 🧩 LeetCode Progress
 
 <div align="center">
-<a href="https://leetcode.com/u/3GasfAhrSD/">
-  <img src="https://leetcard.jacoblin.cool/3GasfAhrSD?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and heatmap" width="100%"/>
-</a>
-</div>
-
----
-
-## 🐍 LeetCode Snake
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/leetcode-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizwan-shariff/rizwan-shariff/output/leetcode-snake.svg" />
@@ -142,7 +132,6 @@ Smart India Hackathon project built with a team to solve a real-world problem.
 </picture>
 </div>
 
-> Auto-generated daily from my LeetCode submissions. The snake eats every day I solved problems.
 
 ---
 
